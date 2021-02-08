@@ -33,7 +33,9 @@ klippy::klippy(position = c('top','left'))
   * You will need to type your password again later and in future weeks - you might want to write it down on a bit of paper or save it to a text file together with any other CaL files that you keep on your computer. Please use a password that is different from any passwords that you use for anything sensitive like internet banking.
 * Check your BU email for an account confirmation email from OSF - it will have a link that you copy into a browser to confirm your account.
 * Turn off notifications at https://osf.io/settings/notifications/ - in particular turn 'files updated' to 'Never'
+
 ![](turn-off-notifications.png)
+
 * Email me the real full name that you used to create your account
   * I need this to search for you on the OSF so that I can grant your account access to the CaL experiments
   * the subject field should be like this 'CaL 2021 Matthew James Green' - replace Matthew James Green with the real full name you used to create your account
