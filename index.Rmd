@@ -1,7 +1,7 @@
 ---
 title: "This document explains how to  use opensesame for CaL in 2021"
 author: "Matt Green"
-date: "date: 2021-02-07; last update `r Sys.Date()`"
+date: "last updated `r format(Sys.time(), '%H:%M on %d %B, %Y')`"
 # abstract: "This document explains how to  use opensesame for CaL in 2021"
 output: 
   html_document:
