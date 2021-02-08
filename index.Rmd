@@ -70,7 +70,7 @@ After you have received the email reply from me you will be able to access the C
 * Open up Opensesame
 * Sign in to the OSF
   * Click on 'Log in' (see the screenshot below)
-  * You will be asked for your user name - it's the BU email address that you used when you registered with the OSF (so mine is mgreen@bournemouth.ac.uk and yours will have the same form)
+  * You will be asked for your user name - it's the BU email address that you used when you registered with the OSF and it probably looks a bit like x12345678@bournemouth.ac.uk
   * You will be asked for your password -  it's the strong password you entered as your __OSF password when you registered with the OSF__ and that I suggested you write down somewhere (not your BU password). This will not autofill even if you used a browser password-generator because it's not a true browser window.
 
 ![](os-interface.png)
