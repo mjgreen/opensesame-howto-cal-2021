@@ -36,7 +36,7 @@ klippy::klippy(position = c('top','left'))
 ![](turn-off-notifications.png)
 * Email me the real full name that you used to create your account
   * I need this to search for you on the OSF so that I can grant your account access to the CaL experiments
-  * the subject field should be like this 'CaL 2021 Matthew James Green' - replace Matthew James Green for the real full name you used to create you account
+  * the subject field should be like this 'CaL 2021 Matthew James Green' - replace Matthew James Green with the real full name you used to create your account
   * my address is mgreen@bournemouth.ac.uk
   * when I have added you I will send an empty reply to your email - when you get that, the process of registering for an OSF account for CaL is complete
 
