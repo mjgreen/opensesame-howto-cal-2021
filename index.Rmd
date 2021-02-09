@@ -64,6 +64,9 @@ If you are using a Mac, then depending on your existing settings, you might need
 
 * This creates an exception for that app, so you'll also be able to open it in the future without having to repeat this process. Because of Gatekeeper's other checks this will still stop you from opening an app with known malware attached to it.
 
+## If you are using a very old Mac
+If you are using a very old Mac then the current version of OpenSesame might not run CaL experiments successfully. Try the current version first, but if it doesn't work then use this installer instead: https://github.com/open-cogsci/OpenSesame/releases/download/release%2F3.2.8/opensesame_3.2.8-py2.7-macos-1.dmg
+
 # Run the cat-dog demo
 After you have received the email reply from me you will be able to access the CaL 2020-2021 experiments (that are hosted on OSF) through OpenSesame's graphical interface. In the first seminar we will run a very short 2-trial demo experiment to verify that your installation of OpenSesame is working as expected (or to diagnose any errors if it isn't working as expected) in advance of seminars where you will run real experiments.
 
