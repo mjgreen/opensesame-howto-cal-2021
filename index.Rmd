@@ -26,7 +26,7 @@ klippy::klippy(position = c('top','left'))
 <!-- This document explains how to  use opensesame for CaL in 2021 -->
 
 # Register for an account with OSF
-* at https://osf.io/register/
+* at https://osf.io/register/ (you might need to copy and paste that link into a browser if clicking on it doesn't work)
   * Use your BU email address
   * Use your real full name including any middle name
   * Use a strong password with a number, a capital letter, and a special symbol like $ - or the OSF will not accept your password
