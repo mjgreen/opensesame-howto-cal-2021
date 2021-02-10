@@ -33,10 +33,9 @@ klippy::klippy(position = c('top','left'))
   * You will need to type your password again later and in future weeks - you might want to write it down on a bit of paper or save it to a text file together with any other CaL files that you keep on your computer. Please use a password that is different from any passwords that you use for anything sensitive like internet banking. The idea is that the password should be strong enough to satisfy the OSF, but that if someone malicious saw it, they would only have access to your OSF account.
 * Check your BU email for an account confirmation email from OSF - it will have a link that you copy into a browser to confirm your account.
 * Turn off notifications at https://osf.io/settings/notifications/ - in particular turn 'files updated' to 'Never' (see screenshot below)
-* Email me the real full name that you used to create your account
+* Email me (mgreen@bournemouth.ac.uk) the real full name that you used to create your account
   * I need this to search for you on the OSF so that I can grant your account access to the CaL experiments
   * the subject field should be like this 'CaL 2021 Matthew James Green' - replace Matthew James Green with the real full name you used to create your account
-  * my address is mgreen@bournemouth.ac.uk
   * when I have added you I will send an empty reply to your email - when you get that, the process of registering for an OSF account for CaL is complete
 
 ![](turn-off-notifications.png)
@@ -47,7 +46,11 @@ OpenSesame is available for free from their homepage. AppsAnywhere has an out of
 ![](opensesame-download-page.png)
 
 ## If you are using Windows
-If you are using Windows then the installer should run fine.
+If you are using Windows then, depending on your existing security settings, Windows Defender might complain like this (see screenshot below). The warning arises because OpenSesame isn't a product that you purchased from Microsoft and Windows is trying to prevent you from installing things that might be malicious. You can still install the program though. Click on 'more info', and tell Windows that you understand the risk and you want to install OpenSesame anyway.
+
+![](defender.png)
+
+
 
 ## If you are using a Mac
 If you are using a Mac, then depending on your existing settings, you might need to tell your Mac that you really do want to install OpenSesame if it refuses at first. If you attempt to open an app and macOS stops you from doing so, that doesn't necessarily mean there is something wrong with the app. But it will indicate that the app isn't from an 'identified developer' - in other words a developer that has signed up to Apple's developer program and jumped through a few hoops to get Apple to trust it. However you can still open the app and override the block. Here's how:
