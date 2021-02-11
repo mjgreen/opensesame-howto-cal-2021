@@ -28,7 +28,7 @@ klippy::klippy(position = c('top','left'))
 # Register for an account with OSF
 * at https://osf.io/register/ (you might need to copy and paste that link into a browser if clicking on it doesn't work)
   * Use your BU email address
-  * Use your real full name including any middle name
+  * Use a name that is likely to be unique among thousands of OSF users - your real full name including any middle name is a sensible choice. If you have a name that is likely to exist already, putting 'CAL2021' in it somewhere would be a good idea - so my own name Matt Green could be entered as 'Matt CAL2021 Green' for example.
   * Use a strong password with a number, a capital letter, and a special symbol like $ - or the OSF will not accept your password
   * You will need to type your password again later and in future weeks - you won't be able to autofill it using a browser so try to make it memorable, although a password reset mechanism is available if you forget.
 * Check your BU email for an account confirmation email from OSF - it will have a link that you copy into a browser to confirm your account.
@@ -46,7 +46,7 @@ OpenSesame is available for free from their homepage. AppsAnywhere has an out of
 ![](opensesame-download-page.png){width=50%}
 
 ## If you are using Windows
-If you are using Windows then, depending on your existing security settings, Windows Defender might complain like this (see screenshot below). The warning arises because OpenSesame isn't a product that you purchased from Microsoft and Windows is trying to prevent you from installing things that might be malicious. You can still install the program though. Click on 'more info', and tell Windows that you understand the risk and you want to install OpenSesame anyway.
+If you are using Windows then, depending on your existing security settings, Windows Defender might complain like this (see screenshot below). The warning arises because OpenSesame isn't a product that you purchased from Microsoft, and Windows is trying to prevent you from installing things that might be malicious. You can still install the program though. Click on 'more info', and tell Windows that you understand the risk and you want to install OpenSesame anyway.
 
 ![](defender.png){width=50%}
 
