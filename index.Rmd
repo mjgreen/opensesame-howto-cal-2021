@@ -45,13 +45,16 @@ OpenSesame is available for free from their homepage. AppsAnywhere has an out of
 
 ![](opensesame-download-page.png){width=75%}
 
+## If your browser warns you
+On some browsers, when you have finished downloading the OpenSesame installer, the browser will give you a warning when you click on the installer. Usually there is an up arrow to the right of the file name (or 3 dots). Clicking here usually lets you select 'keep', and then, if a further warning appears, 'keep anyway'. Post on the forums if you can't get past this please.
+
 ## If you are using Windows
 If you are using Windows then, depending on your existing security settings, Windows Defender might complain like this (see screenshot below). The warning arises because OpenSesame isn't a product that you purchased from Microsoft, and Windows is trying to prevent you from installing things that might be malicious. You can still install the program though. Click on 'more info', and tell Windows that you understand the risk and you want to install OpenSesame anyway.
 
 ![](defender.png){width=50%}
 
 ## If you are using a Mac
-If you are using a Mac, then depending on your existing settings, you might need to tell your Mac that you really do want to install OpenSesame if it refuses at first. If you attempt to open an app and macOS stops you from doing so, that doesn't necessarily mean there is something wrong with the app. But it will indicate that the app isn't from an 'identified developer' - in other words a developer that has signed up to Apple's developer program and jumped through a few hoops to get Apple to trust it. However you can still open the app and override the block. Here's how:
+If you are using a Mac, then depending on your existing settings, you might need to tell your Mac that you really do want to install OpenSesame if it refuses at first. You can look up detailed instructions that are specific to your version of macOS at this link: https://support.apple.com/en-in/guide/mac-help/mh40616/mac - but here is the short version. If you attempt to open an app and macOS stops you from doing so, that doesn't necessarily mean there is something wrong with the app. But it will indicate that the app isn't from an 'identified developer' - in other words a developer that has signed up to Apple's developer program and jumped through a few hoops to get Apple to trust it. However you can still open the app and override the block. Here's how:
 
 * Open System Preferences.
 * Go to Security & Privacy and select the General tab.
